@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ervinmocic&label=Profile%20views&color=0e75b6&style=flat" alt="ervinmocic" /> </p>
 
-- 🔭 I’m currently working on getting my life together
+- 🔭 I’m currently working on Building up a Business
 
 - 🌱 I’m currently learning **Quantum Programming**
 
