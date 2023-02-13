@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, WordPress, or anything in between**
 
-- 📫 Reach me at **ervin.mocic@gmail.com** or on Discord SIRI#6934
+- 📫 Reach me at **ervin.mocic@gmail.com** or on Discord Ervin Mocic#6934
 
 - ⚡ Fun fact **I started programming at 7**
 
